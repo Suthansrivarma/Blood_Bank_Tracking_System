@@ -1,8 +1,10 @@
+# Deplomentment 
+    https://blood-bank-tracking-system.netlify.app/
+
+
 # Blood Bank Tracking System
 
-<p align="center">
-  <img src="./docs/logo-placeholder.png" alt="Blood Bank Tracking System Logo" width="140" />
-</p>
+
 
 <p align="center">
   <strong>A full-stack platform for donor registration, blood availability discovery, and blood request coordination.</strong>
@@ -22,11 +24,7 @@ The system combines a **React + Vite frontend** with a **Node.js + Express backe
 
 ---
 
-## System Architecture
 
-<p align="center">
-  <img src="./docs/architecture-placeholder.png" alt="System Architecture Diagram" width="820" />
-</p>
 
 ### Architecture Summary
 - **Frontend** serves the user interface for public users, donors, managers, and admins.
@@ -119,6 +117,18 @@ Blood_Bank_Tracking_System/
 │   └── package.json
 └── README.md
 
+### How to run the project
+#BACKEND:
+cd backend
+npm install
+npm start
+The backend will run on:   http://localhost:5000
+
+#FRONTEND:
+Open a new terminal:
+cd frontend
+npm install
+npm run dev
 
 
 
@@ -138,4 +148,5 @@ Blood_Bank_Tracking_System/
 
 
 
-https://blood-bank-tracking-system.netlify.app/
+
+

@@ -94,13 +94,13 @@ The system combines a **React + Vite frontend** with a **Node.js + Express backe
 
 ---
 ## How to run the project
-#BACKEND:
+##BACKEND:
 cd backend
 npm install
 npm start
 The backend will run on:   http://localhost:5000
 
-#FRONTEND:
+##FRONTEND:
 Open a new terminal:
 cd frontend
 npm install
@@ -128,26 +128,3 @@ Blood_Bank_Tracking_System/
 │   ├── .env
 │   └── package.json
 └── README.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

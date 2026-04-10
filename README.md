@@ -1,1 +1,1 @@
-blood-bank-tracking-system.netlify.app
+https://blood-bank-tracking-system.netlify.app/

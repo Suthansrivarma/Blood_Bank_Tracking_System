@@ -93,6 +93,18 @@ The system combines a **React + Vite frontend** with a **Node.js + Express backe
 - Netlify for frontend hosting
 
 ---
+## How to run the project
+#BACKEND:
+cd backend
+npm install
+npm start
+The backend will run on:   http://localhost:5000
+
+#FRONTEND:
+Open a new terminal:
+cd frontend
+npm install
+npm run dev
 
 ## Repository Structure
 
@@ -117,18 +129,7 @@ Blood_Bank_Tracking_System/
 │   └── package.json
 └── README.md
 
-### How to run the project
-#BACKEND:
-cd backend
-npm install
-npm start
-The backend will run on:   http://localhost:5000
 
-#FRONTEND:
-Open a new terminal:
-cd frontend
-npm install
-npm run dev
 
 
 
